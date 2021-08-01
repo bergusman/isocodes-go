@@ -1,2 +1,1 @@
-# isocodes-go
-ISO Codes
+# ISO Codes
